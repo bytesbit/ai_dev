@@ -2,7 +2,7 @@
 Mastering AI Development: From Foundations to Advanced with VO.dev, Cursor, and Claude 3.5
 
 ```mermaid
-graph TD
+graph LR
     A[Artificial Intelligence AI] --> B[Artificial Narrow Intelligence ANI]
     A --> C[Artificial General Intelligence AGI]
     A --> D[Machine Learning ML]
